@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- * main  - print "with proper grammar, but the outcome is a piece of art, " followed newline
- * Return: Always 0.
- *
+ * main  - this is the method
+ * Return: always 0
  */
-
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
